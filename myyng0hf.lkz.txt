@@ -1,0 +1,46 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   src/effectors/CollisionObject.java
+#	new file:   src/effectors/Constraint.java
+#	new file:   src/effectors/Cube.java
+#	new file:   src/effectors/Force.java
+#	new file:   src/effectors/GravityForce.java
+#	new file:   src/effectors/PostModifier.java
+#	new file:   src/effectors/frag.glsl
+#	new file:   src/effectors/vert.glsl
+#	new file:   src/mesh/Edge.java
+#	new file:   src/mesh/Mesh.java
+#	new file:   src/mesh/MeshBuilder.java
+#	new file:   src/mesh/Particle.java
+#	new file:   src/mesh/ParticleSystem.java
+#	new file:   src/mesh/Triangle.java
+#	new file:   src/mesh/Vertex.java
+#	new file:   src/mesh/frag.glsl
+#	new file:   src/mesh/mesh-frag.glsl
+#	new file:   src/mesh/mesh-vert.glsl
+#	new file:   src/mesh/vert.glsl
+#	new file:   src/solver/Constants.java
+#	new file:   src/solver/EulerSolver.java
+#	new file:   src/solver/Neighbors.java
+#	new file:   src/solver/ParticleSystemBuilder.java
+#	new file:   src/solver/Solver.java
+#	new file:   src/solver/Utils.java
+#	new file:   src/solver/frag.glsl
+#	new file:   src/solver/vert.glsl
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.gitattributes
+#	.gitignore
+#	A-Clothy-Adventure/
+#	simulation.txt
+
